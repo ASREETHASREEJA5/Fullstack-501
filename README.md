@@ -1,7 +1,10 @@
 Sports Management
+
+
 Welcome to the Sports Session Management project! This web application makes it easy to organize and manage sports sessions efficiently. Whether you're an admin setting up events or a player looking to join a session, this platform has everything you need.
 
 Key Features
+
 ✅ User Authentication – Register and log in with role-based access for admins and players.
 ✅ Interactive Dashboard – View, create, and manage sports and sessions effortlessly.
 ✅ Responsive Design – Works smoothly on desktops, tablets, and mobile devices.
